@@ -3,7 +3,8 @@ So, `fjørd` is game framework for Kotlin.
 ## ATTENTION:
 This is Alpha version and it isn't ended project! For render you can use Compose(prpapred in repository).
 
-
+![Kotlin](https://img.shields.io/badge/Kotlin-Indeed-violet)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
